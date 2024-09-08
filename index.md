@@ -5,3 +5,7 @@
 ```
 console.log('Hallo MF!')
 ```
+
+- [x] Kotlin
+- [x] JS
+- [ ] Astro
